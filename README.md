@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML5, CSS3, JS, React**
+- 💬 Ask me about **HTML5, CSS3, JS, React, DSA**
 
 - 📫 How to reach me **rahulpriyadarshi001@gmail.com**
 
